@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/DeaconMofoJones/mood_changer1/issues"
   },
-  "homepage": "https://github.com/DeaconMofoJones/mood_changer1#readme"
+  "homepage": "https://github.com/DeaconMofoJones/mood_changer1#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.14"
+  }
 }
