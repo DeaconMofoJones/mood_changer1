@@ -1,0 +1,19 @@
+{
+  "name": "mood_changer1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeaconMofoJones/mood_changer1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeaconMofoJones/mood_changer1/issues"
+  },
+  "homepage": "https://github.com/DeaconMofoJones/mood_changer1#readme"
+}
